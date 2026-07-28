@@ -1,0 +1,6 @@
+sql
+python
+numpy
+pandas
+pyspark
+jupyter
